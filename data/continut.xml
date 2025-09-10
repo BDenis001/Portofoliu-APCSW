@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portofoliu>
+  <header>
+    <titlu>Portofoliu Personal Interactiv</titlu>
+  </header>
+
+  <continut>
+    <sectiune>
+      <subtitlu>Bun venit!</subtitlu>
+      <paragraf>
+        Sunt [Numele tău], pasionat de dezvoltare web. Acesta este portofoliul meu personal
+        unde poți descoperi proiectele realizate și modalitățile de contact.
+      </paragraf>
+    </sectiune>
+  </continut>
+
+  <footer>
+    <text>&#169; 2025 [Numele tău]. Toate drepturile rezervate.</text>
+  </footer>
+</portofoliu>
