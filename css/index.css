@@ -1,4 +1,3 @@
-/* Reset de bază */
 * {
   margin: 0;
   padding: 0;
@@ -6,14 +5,12 @@
   font-family: Arial, sans-serif;
 }
 
-/* Background general */
 body {
   background-color: #f4f4f9;
   color: #333;
   line-height: 1.6;
 }
 
-/* Header + meniu */
 header {
   background: #222;
   color: #fff;
@@ -43,7 +40,6 @@ nav ul li a:hover {
   color: #ff9800;
 }
 
-/* Conținut principal */
 main {
   padding: 30px;
   text-align: center;
@@ -60,7 +56,6 @@ main h2 {
   color: #ff9800;
 }
 
-/* Footer */
 footer {
   background: #222;
   color: #fff;
